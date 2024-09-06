@@ -3,7 +3,6 @@ let num2: number = 1
 let result: number
 
 console.log(num1)
-console.log(num2)
 
 for(let i=1;i<10;i++){
     result = num1 + num2
